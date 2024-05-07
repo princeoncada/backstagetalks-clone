@@ -61,7 +61,7 @@ export default function Home() {
     },[])
 
     return (
-        <div style={{ backgroundColor: current.color, transition: 'background-color 0.5s ease', fontFamily: 'Roboto' }}>
+        <div style={{ backgroundColor: current.color, transition: 'background-color 0.5s ease', fontFamily: 'Roboto' }} className='flex flex-col gap-52 pt-48'>
             <img className="absolute lg:fixed top-4 left-4 md:w-64 w-40" src="./logo.png" alt="" />
             <Sections/>
             <div className='flex flex-col items-center md:items-start gap-6 lg:fixed lg:bottom-4 lg:left-4'>
