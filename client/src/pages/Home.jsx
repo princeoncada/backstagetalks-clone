@@ -66,7 +66,7 @@ export default function Home() {
             <Sections/>
             <div className='flex flex-col items-center md:items-start gap-6 lg:fixed lg:bottom-4 lg:left-4'>
                 <div className="flex flex-col px-4 text-center md:text-left md:max-w-72 md:pb-4 text-lg font-bold lg:px-0">
-                    Backstage Talks is a&nbsp;magazine of&nbsp;casual, but in&nbsp;depth dialogues on&nbsp;design and business. Our decisions shape and influence this complex world—to have a&nbsp;chance to&nbsp;make the right ones, we need to talk.<span className="text-xs font-normal mt-2">© 2024 <a className="underline" href="http://milk.sk/" target="_blank">Published by Büro Milk</a></span>
+                    Backstage Talks is a&nbsp;magazine of&nbsp;casual, but in&nbsp;depth dialogues on&nbsp;design and business. Our decisions shape and influence this complex world—to have a&nbsp;chance to&nbsp;make the right ones, we need to talk.<span className="text-xs font-normal mt-2">© 2024 <a className="underline" href="#" target="_blank">Recreated by Prince Oncada</a></span>
                 </div>
                 <div className='flex flex-col md:flex-row items-center w-full justify-between text-lg font-bold gap-10 mb-10 lg:mb-0 lg:px-0 px-4'>
                     <a href="#" className='underline'>Privacy Policy</a>
