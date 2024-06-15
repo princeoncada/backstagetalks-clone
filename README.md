@@ -1,4 +1,4 @@
-Clone of backstage talks' about page: https://backstagetalks.com/
+Clone of backstage talks' home page: https://backstagetalks.com/
 
 Cloned Site: https://backstagetalks-clone.vercel.app/
 
